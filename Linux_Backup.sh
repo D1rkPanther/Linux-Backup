@@ -57,4 +57,4 @@ date
 # $dest to check file sizes.
 ls -lh $dest
 
-echo "Thanks! Have a Nice Day"
+echo "Have a Nice Day!"
