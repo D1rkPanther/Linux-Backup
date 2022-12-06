@@ -1,6 +1,3 @@
-# Linux-Backup
-`How To Take Backup in Linux` 
-
 # Installation
 * `git clone https://github.com/D1rkPanther/Linux-Backup.git`
 * `cd Linux-Backup`
