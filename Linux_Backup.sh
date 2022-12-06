@@ -1,15 +1,7 @@
 #! /bin/bash
 figlet D1rkPanther
+echo "                                by @bh!"
 echo "Creating Directory in /mnt/backup"
-echo  "."
-echo  "."
-echo  "."
-echo  "."
-echo  "."
-echo  "."
-echo  "."
-echo  "."
-echo  "."
 echo  "."
 echo  "."
 echo  "."
@@ -26,6 +18,7 @@ echo  "."
 
 sudo mkdir /mnt/backup
 
+echo "
 echo "Finished"
 
 # Backup folders  
